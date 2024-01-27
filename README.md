@@ -2,4 +2,4 @@
 
   ### API - Application Programming Interface
 
-  + [Netlify link]()
+  + [Netlify link](https://usingfetch.netlify.app/)
